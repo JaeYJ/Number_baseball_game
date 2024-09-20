@@ -8,5 +8,15 @@ The objective of the Number Baseball game is to guess the exact three-digit numb
 - Balls (B): The count of digits that match in value but not position.
 - Outs (OUT): The count of digits that do not match at all.
 
+## To run the code
+1. Navigate to the backend directory:
+```bash
+cd backend
+npm start
+2. Navigate to the frontend directory:
+```bash
+cd frontend
+npm start
+
 #### 09/20/2024
 - Building the game for two users.
