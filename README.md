@@ -13,10 +13,13 @@ The objective of the Number Baseball game is to guess the exact three-digit numb
 ```bash
 cd backend
 npm start
+```
+
 2. Navigate to the frontend directory:
 ```bash
 cd frontend
 npm start
+```
 
 #### 09/20/2024
 - Building the game for two users.
